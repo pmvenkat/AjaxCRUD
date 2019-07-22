@@ -1,0 +1,88 @@
+{% extends "MainDashboard.html" %}
+{% block header %}
+{% load staticfiles %}
+<link rel="stylesheet" type="text/css" href="{% static 'css/dashboard/dashboard.css' %}" >
+{%endblock%}
+{% block PageTitle%}
+<div class="col-md-7" style="color:aliceblue">
+  <h4><b>Admin Dashboard</b></h4>
+</div>  
+{% endblock %}
+{% block content %}
+  <div class="content-wrapper" > 
+<div class="box" style="width: 95%; height: 70px; margin-left: 20px">
+  <div class="box-body" style="margin-left:20px">
+    <div class="row">  
+        <div class="col-md-3" style="margin-top:5px; margin-left: 10px">
+            <div class="form-group" style="display:flex" >
+              <label  style="margin-top:5px">From:</label>
+              <input type="date" class="form-control" id="fromDate" style="width:190px">
+            </div>
+          </div>
+          <div class="col-md-3" style="margin-top:5px; margin-left: -35px">
+              <div class="form-group" style="display:flex">
+                <label style="margin-top:5px">To:</label>
+                <input type="date" class="form-control" id="toDate" style="width:190px" >
+              </div>
+            </div>
+            <div class="col-md-2" style="margin-top:5px; margin-left: -40px">
+                <div class="form-group" style="display:flex">
+                    <label style="margin-top:5px">Quarter:</label>
+                    <select id="quarter" class="form-control" style="width:200px">
+                      <option>Select</option>
+                      <option>Quarter 1</option>
+                      <option>Quarter 2</option>
+                      <option>Quarter 3</option>
+                      <option>Quarter 4</option>
+                    </select>
+                  </div>
+            </div>
+            <div class="col-md-2" style="margin-top:5px; margin-left: 1px">
+                <div class="form-group" style="display:flex">
+                    <label style="margin-top:5px">Product:</label>
+                    <select id="products" class="form-control" style="width:200px">
+                      <option>Select</option>
+                    </select>
+                </div>
+            </div>
+      <div class="col-md-1" class="form-group" style="margin-top: 5px">
+          <button class="btn btn-flat bg-blue" class="form-control" id="go" style="margin-left: 40px">
+              <i class="fa fa-arrow-circle-right"> Go</i>
+          </button>
+      </div>
+    </div>
+  </div>
+</div>
+    <body>
+      <div class="row row-no-gutters">
+      <div class="col-md-6">
+        <svg id="svg" width="565" height="240"></svg>
+      </div>
+      <div class="col-md-6">
+        <svg id="svg1" width="500" height="240" ></svg>
+      </div>
+      </div>
+     <div class="row"> 
+      <div class="col-lg-6">
+        <svg id="svg2" width="565" height="240"></svg>
+      </div>
+      <div class="col-md-4">
+        <svg id="svg3" width="325" height="240"></svg>
+      </div>
+      <div class="col-md-2">
+        <svg id="svg4" width="175" height="240"></svg>
+      </div>
+    </div>
+  </body>
+  </div>
+  {%endblock%}
+  {%block footer%}
+  {% load staticfiles %}
+  <script type="text/javascript" src="{% static 'js/dashboard/dashboard.js' %}" ></script>
+  <script type="text/javascript" src="{% static 'js/dashboard/d3.min.js' %}" ></script>
+  <script type="text/javascript" src="{% static 'js/dashboard/d3.min2.js' %}" ></script>
+  <script type="text/javascript" src="{% static 'js/dashboard/tip.js' %}" ></script>
+  <script type="text/javascript" src="{% static 'js/dashboard/dimple.v2.3.0.min.js' %}" ></script>
+  <script type="text/javascript" src="{% static 'js/dashboard/d3pie.min.js' %}" ></script>
+  <script type="text/javascript" src="{% static 'js/dashboard/raphael.min.js' %}" ></script>
+  {%endblock%}

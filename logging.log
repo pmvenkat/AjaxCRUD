@@ -1,0 +1,1227 @@
+2019-06-13 17:28:50,139 : ERROR : hms : 'required_quantity' : C:\Users\Pappu Group\Desktop\hms\hms\superuser\packages\jobcard_creation.py : post : 153
+2019-06-13 17:29:13,351 : ERROR : "GET /static/js/customermanagement/jquery.slimscroll.min.js HTTP/1.1" 500 59 : C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\core\servers\basehttp.py : log_message : 154
+2019-06-13 17:29:13,690 : ERROR : "GET /superuser/job_card_creation/ HTTP/1.1" 500 59 : C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\core\servers\basehttp.py : log_message : 154
+2019-06-13 17:29:18,922 : ERROR : hms : unsupported operand type(s) for -: 'int' and 'str' : C:\Users\Pappu Group\Desktop\hms\hms\superuser\packages\jobcard_creation.py : post : 153
+2019-06-13 17:30:15,985 : ERROR : hms : unsupported operand type(s) for -: 'int' and 'str' : C:\Users\Pappu Group\Desktop\hms\hms\superuser\packages\jobcard_creation.py : post : 153
+2019-06-14 11:53:16,759 : ERROR : hms : 'bom_number' : C:\Users\Pappu Group\Desktop\hms\hms\superuser\packages\jobcard_creation.py : post : 153
+2019-06-14 11:55:52,788 : ERROR : "POST /superuser/login/ HTTP/1.1" 500 59 : C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\core\servers\basehttp.py : log_message : 154
+2019-06-14 18:56:35,605 : ERROR : hms : invalid literal for int() with base 10: 'UNFINISHEDPRODUCTS' : C:\Users\Pappu Group\Desktop\hms\hms\superuser\packages\jobcard_creation.py : post : 94
+2019-06-14 18:57:50,872 : ERROR : hms : name 'category_to_item_category' is not defined : C:\Users\Pappu Group\Desktop\hms\hms\superuser\packages\jobcard_creation.py : post : 95
+2019-06-14 18:58:07,701 : ERROR : hms : 'NoneType' object has no attribute 'quantity' : C:\Users\Pappu Group\Desktop\hms\hms\superuser\packages\jobcard_creation.py : post : 95
+2019-06-14 18:58:57,080 : ERROR : hms : unsupported operand type(s) for +: 'dict' and 'int' : C:\Users\Pappu Group\Desktop\hms\hms\superuser\packages\jobcard_creation.py : post : 98
+2019-06-14 18:59:42,990 : ERROR : hms : 'request_product_quantity__' : C:\Users\Pappu Group\Desktop\hms\hms\superuser\packages\jobcard_creation.py : post : 99
+2019-06-15 11:55:28,362 : ERROR : hms : local variable 'bom_list' referenced before assignment : C:\Users\Pappu Group\Desktop\hms\hms\superuser\packages\jobcard_creation.py : post : 221
+2019-06-15 11:55:51,867 : ERROR : hms : local variable 'bom_list' referenced before assignment : C:\Users\Pappu Group\Desktop\hms\hms\superuser\packages\jobcard_creation.py : post : 221
+2019-06-15 11:59:51,316 : ERROR : hms : 'JobCardCreation' object has no attribute 'values' : C:\Users\Pappu Group\Desktop\hms\hms\superuser\packages\jobcard_creation.py : post : 221
+2019-06-15 12:00:26,914 : ERROR : hms : local variable 'bom_list' referenced before assignment : C:\Users\Pappu Group\Desktop\hms\hms\superuser\packages\jobcard_creation.py : post : 221
+2019-06-15 12:00:56,735 : ERROR : hms : local variable 'bom_list' referenced before assignment : C:\Users\Pappu Group\Desktop\hms\hms\superuser\packages\jobcard_creation.py : post : 221
+2019-06-15 12:01:46,881 : ERROR : hms : local variable 'bom_list' referenced before assignment : C:\Users\Pappu Group\Desktop\hms\hms\superuser\packages\jobcard_creation.py : post : 221
+2019-06-15 13:10:29,488 : ERROR : hms : local variable 'i' referenced before assignment : C:\Users\Pappu Group\Desktop\hms\hms\superuser\packages\jobcard_creation.py : post : 162
+2019-06-15 13:13:36,098 : ERROR : hms : local variable 'i' referenced before assignment : C:\Users\Pappu Group\Desktop\hms\hms\superuser\packages\jobcard_creation.py : post : 162
+2019-06-15 13:13:58,800 : ERROR : hms : '>=' not supported between instances of 'dict' and 'int' : C:\Users\Pappu Group\Desktop\hms\hms\superuser\packages\jobcard_creation.py : post : 161
+2019-06-15 13:23:08,349 : ERROR : hms : '>=' not supported between instances of 'dict' and 'int' : C:\Users\Pappu Group\Desktop\hms\hms\superuser\packages\jobcard_creation.py : post : 161
+2019-06-15 13:23:45,470 : ERROR : hms : '>=' not supported between instances of 'dict' and 'int' : C:\Users\Pappu Group\Desktop\hms\hms\superuser\packages\jobcard_creation.py : post : 162
+2019-06-15 13:24:32,332 : ERROR : hms : 'job_list_jobno__required_quantity' : C:\Users\Pappu Group\Desktop\hms\hms\superuser\packages\jobcard_creation.py : post : 163
+2019-06-15 13:25:06,649 : ERROR : hms : 'job_list_jobno__required_quantity' : C:\Users\Pappu Group\Desktop\hms\hms\superuser\packages\jobcard_creation.py : post : 164
+2019-06-15 13:25:49,892 : ERROR : hms : 'job_list_jobno__required_quantity' : C:\Users\Pappu Group\Desktop\hms\hms\superuser\packages\jobcard_creation.py : post : 164
+2019-06-15 13:27:51,341 : ERROR : hms : 'job_list_jobno__required_quantity' : C:\Users\Pappu Group\Desktop\hms\hms\superuser\packages\jobcard_creation.py : post : 164
+2019-06-15 13:59:38,113 : ERROR : hms : Invalid BOM Id! : C:\Users\Pappu Group\Desktop\hms\hms\superuser\packages\jobcard_creation.py : post : 99
+2019-06-15 14:00:56,875 : ERROR : "GET /static/js/dashboard/jquery.min.js HTTP/1.1" 500 59 : C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\core\servers\basehttp.py : log_message : 154
+2019-06-15 15:51:55,073 : ERROR : hms : ItemMaster matching query does not exist. : C:\Users\Pappu Group\Desktop\hms\hms\superuser\packages\bill_of_materials.py : post : 373
+2019-06-19 11:20:41,433 : ERROR : "GET /superuser/purchase_details/ HTTP/1.1" 500 59 : C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\core\servers\basehttp.py : log_message : 154
+2019-06-19 12:14:42,371 : ERROR : Your Username Has Been Wrong!  : C:\Users\Pappu Group\Desktop\hms\hms\superuser\packages\login.py : post : 108
+2019-06-19 12:15:29,302 : ERROR : Internal Server Error: /superuser/taxing-information-insert/ : C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\utils\log.py : log_response : 228
+Traceback (most recent call last):
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\core\handlers\base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\core\handlers\base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\contrib\auth\decorators.py", line 21, in _wrapped_view
+    return view_func(request, *args, **kwargs)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\views\decorators\csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\views\generic\base.py", line 71, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\views\generic\base.py", line 97, in dispatch
+    return handler(request, *args, **kwargs)
+  File "C:\Users\Pappu Group\Desktop\hms\hms\superuser\packages\taxing_info.py", line 51, in post
+    user = utils.string_to_user(request.session["User"])
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\contrib\sessions\backends\base.py", line 54, in __getitem__
+    return self._session[key]
+KeyError: 'User'
+2019-06-19 12:15:29,302 : ERROR : "POST /superuser/taxing-information-insert/ HTTP/1.1" 500 17515 : C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\core\servers\basehttp.py : log_message : 154
+2019-06-19 12:15:29,503 : ERROR : Internal Server Error: /superuser/taxing-information-insert/ : C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\utils\log.py : log_response : 228
+Traceback (most recent call last):
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\core\handlers\base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\core\handlers\base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\contrib\auth\decorators.py", line 21, in _wrapped_view
+    return view_func(request, *args, **kwargs)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\views\decorators\csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\views\generic\base.py", line 71, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\views\generic\base.py", line 97, in dispatch
+    return handler(request, *args, **kwargs)
+  File "C:\Users\Pappu Group\Desktop\hms\hms\superuser\packages\taxing_info.py", line 51, in post
+    user = utils.string_to_user(request.session["User"])
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\contrib\sessions\backends\base.py", line 54, in __getitem__
+    return self._session[key]
+KeyError: 'User'
+2019-06-19 12:15:29,503 : ERROR : "POST /superuser/taxing-information-insert/ HTTP/1.1" 500 17515 : C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\core\servers\basehttp.py : log_message : 154
+2019-06-19 12:15:32,958 : ERROR : Internal Server Error: /superuser/taxing-information-insert/ : C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\utils\log.py : log_response : 228
+Traceback (most recent call last):
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\core\handlers\base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\core\handlers\base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\contrib\auth\decorators.py", line 21, in _wrapped_view
+    return view_func(request, *args, **kwargs)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\views\decorators\csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\views\generic\base.py", line 71, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\views\generic\base.py", line 97, in dispatch
+    return handler(request, *args, **kwargs)
+  File "C:\Users\Pappu Group\Desktop\hms\hms\superuser\packages\taxing_info.py", line 51, in post
+    user = utils.string_to_user(request.session["User"])
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\contrib\sessions\backends\base.py", line 54, in __getitem__
+    return self._session[key]
+KeyError: 'User'
+2019-06-19 12:15:32,959 : ERROR : "POST /superuser/taxing-information-insert/ HTTP/1.1" 500 17515 : C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\core\servers\basehttp.py : log_message : 154
+2019-06-19 12:15:33,005 : ERROR : Internal Server Error: /superuser/taxing-information-insert/ : C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\utils\log.py : log_response : 228
+Traceback (most recent call last):
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\core\handlers\base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\core\handlers\base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\contrib\auth\decorators.py", line 21, in _wrapped_view
+    return view_func(request, *args, **kwargs)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\views\decorators\csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\views\generic\base.py", line 71, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\views\generic\base.py", line 97, in dispatch
+    return handler(request, *args, **kwargs)
+  File "C:\Users\Pappu Group\Desktop\hms\hms\superuser\packages\taxing_info.py", line 51, in post
+    user = utils.string_to_user(request.session["User"])
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\contrib\sessions\backends\base.py", line 54, in __getitem__
+    return self._session[key]
+KeyError: 'User'
+2019-06-19 12:15:33,005 : ERROR : "POST /superuser/taxing-information-insert/ HTTP/1.1" 500 17515 : C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\core\servers\basehttp.py : log_message : 154
+2019-06-19 12:15:41,063 : ERROR : You are Password Is Wrong  : C:\Users\Pappu Group\Desktop\hms\hms\superuser\packages\login.py : post : 108
+2019-06-19 12:17:09,858 : ERROR : hms : (1062, "Duplicate entry 'FPFA29' for key 'PRIMARY'") : C:\Users\Pappu Group\Desktop\hms\hms\superuser\packages\all_csv_file_upload.py : post : 103
+2019-06-19 12:19:14,380 : ERROR : hms : (1062, "Duplicate entry 'FPFA29' for key 'PRIMARY'") : C:\Users\Pappu Group\Desktop\hms\hms\superuser\packages\all_csv_file_upload.py : post : 103
+2019-06-19 12:30:12,303 : ERROR : "GET /superuser/purchase_details/ HTTP/1.1" 500 59 : C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\core\servers\basehttp.py : log_message : 154
+2019-06-19 12:31:49,596 : ERROR : hms : Related Field got invalid lookup: itemtype : C:\Users\Pappu Group\Desktop\hms\hms\superuser\packages\purchase_details.py : post : 60
+2019-06-19 12:32:56,227 : ERROR : hms : Related Field got invalid lookup: itemtype : C:\Users\Pappu Group\Desktop\hms\hms\superuser\packages\purchase_details.py : post : 60
+2019-06-19 12:50:46,456 : ERROR : hms : Cannot resolve keyword 'material' into field. Choices are: active, bom_code, bom_code_id, created_date, created_user, created_user_id, internal_po, jc_ready, jccompleted_date, jccompleted_status, job_list_jobno, job_number, moveforsubvendor_date, moveforsubvendor_status, movetostore_date, movetostore_status, movetosubvendor_date, movetosubvendor_status, movetovendor_date, movetovendor_status, open_status, product, product_id, production_date, production_in_jobno, production_out_jc, production_status, purchase_date, purchase_status, ready_date, ready_status, request_product_quantity, sales_id, sales_id_id, sales_out_jc, stockreceived_date, stockreceived_status, update_date : C:\Users\Pappu Group\Desktop\hms\hms\superuser\packages\purchase_details.py : post : 546
+2019-06-19 12:51:01,286 : ERROR : hms : Cannot resolve keyword 'material' into field. Choices are: active, bom_code, bom_code_id, created_date, created_user, created_user_id, internal_po, jc_ready, jccompleted_date, jccompleted_status, job_list_jobno, job_number, moveforsubvendor_date, moveforsubvendor_status, movetostore_date, movetostore_status, movetosubvendor_date, movetosubvendor_status, movetovendor_date, movetovendor_status, open_status, product, product_id, production_date, production_in_jobno, production_out_jc, production_status, purchase_date, purchase_status, ready_date, ready_status, request_product_quantity, sales_id, sales_id_id, sales_out_jc, stockreceived_date, stockreceived_status, update_date : C:\Users\Pappu Group\Desktop\hms\hms\superuser\packages\purchase_details.py : post : 546
+2019-06-19 22:51:45,741 : ERROR : hms : 'dict' object has no attribute 'bom_number' : C:\Users\Pappu Group\Desktop\hms\hms\superuser\packages\production.py : post : 126
+2019-06-19 22:52:00,592 : ERROR : hms : 'dict' object has no attribute 'bom_code' : C:\Users\Pappu Group\Desktop\hms\hms\superuser\packages\production.py : post : 126
+2019-06-19 23:11:35,201 : ERROR : hms : invalid literal for int() with base 10: 'JC190619123110' : C:\Users\Pappu Group\Desktop\hms\hms\superuser\packages\production.py : post : 128
+2019-06-19 23:41:55,483 : ERROR : hms : 'Q' object has no attribute 'values' : C:\Users\Pappu Group\Desktop\hms\hms\superuser\packages\production.py : post : 128
+2019-06-19 23:42:52,634 : ERROR : hms : name 'job_list_jobno__material_status' is not defined : C:\Users\Pappu Group\Desktop\hms\hms\superuser\packages\production.py : post : 128
+2019-06-19 23:42:57,661 : ERROR : hms : name 'job_list_jobno__material_status' is not defined : C:\Users\Pappu Group\Desktop\hms\hms\superuser\packages\production.py : post : 128
+2019-06-19 23:44:03,552 : ERROR : hms : name 'job_list_jobno__material_status' is not defined : C:\Users\Pappu Group\Desktop\hms\hms\superuser\packages\production.py : post : 128
+2019-06-19 23:44:03,838 : ERROR : hms : name 'job_list_jobno__material_status' is not defined : C:\Users\Pappu Group\Desktop\hms\hms\superuser\packages\production.py : post : 128
+2019-06-19 23:53:09,313 : ERROR : hms : JobCardCreation has no field named 'job_list_jobno__material_status' : C:\Users\Pappu Group\Desktop\hms\hms\superuser\packages\production.py : post : 131
+2019-06-19 23:54:00,058 : ERROR : hms : JobCardCreation has no field named 'job_list_jobno__material_status' : C:\Users\Pappu Group\Desktop\hms\hms\superuser\packages\production.py : post : 131
+2019-06-19 23:59:07,328 : ERROR : hms : JobCardCreation has no field named 'material_status' : C:\Users\Pappu Group\Desktop\hms\hms\superuser\packages\production.py : post : 131
+2019-06-19 23:59:07,612 : ERROR : hms : JobCardCreation has no field named 'material_status' : C:\Users\Pappu Group\Desktop\hms\hms\superuser\packages\production.py : post : 131
+2019-06-20 00:01:38,770 : ERROR : hms : Summa : C:\Users\Pappu Group\Desktop\hms\hms\superuser\packages\production.py : post : 131
+2019-06-20 00:13:35,566 : ERROR : hms : Cannot resolve keyword 'product_code' into field. Choices are: active, created_date, created_user, created_user_id, id, jc_status, lacking_quantity, order_quantity_calculation, order_quantity_enquiry, pin_product, pin_product_id, product, product_id, quantity_to_be_delivered, total_order_quantity, update_date : C:\Users\Pappu Group\Desktop\hms\hms\superuser\packages\production.py : post : 141
+2019-06-20 00:17:43,084 : ERROR : "GET /superuser/item_master/ HTTP/1.1" 500 59 : C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\core\servers\basehttp.py : log_message : 154
+2019-06-20 00:18:38,802 : ERROR : hms : list index out of range : C:\Users\Pappu Group\Desktop\hms\hms\superuser\packages\production.py : post : 142
+2019-06-20 00:22:33,643 : ERROR : hms : list index out of range : C:\Users\Pappu Group\Desktop\hms\hms\superuser\packages\production.py : post : 142
+2019-06-20 00:23:02,175 : ERROR : hms : list index out of range : C:\Users\Pappu Group\Desktop\hms\hms\superuser\packages\production.py : post : 143
+2019-06-20 00:26:31,030 : ERROR : hms : list index out of range : C:\Users\Pappu Group\Desktop\hms\hms\superuser\packages\production.py : post : 143
+2019-06-20 00:26:58,324 : ERROR : hms : list index out of range : C:\Users\Pappu Group\Desktop\hms\hms\superuser\packages\production.py : post : 144
+2019-06-20 00:27:10,718 : ERROR : hms : list indices must be integers or slices, not str : C:\Users\Pappu Group\Desktop\hms\hms\superuser\packages\production.py : post : 142
+2019-07-03 18:16:18,024 : ERROR : Your Username Has Been Wrong!  : C:\Users\Pappu Group\Desktop\Django\superuser\packages\login.py : post : 108
+2019-07-03 18:17:42,133 : ERROR : Internal Server Error: /superuser/customermanagement/ : C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\utils\log.py : log_response : 228
+Traceback (most recent call last):
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\core\handlers\base.py", line 145, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\core\handlers\base.py", line 143, in _get_response
+    response = response.render()
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\template\response.py", line 106, in render
+    self.content = self.rendered_content
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\template\response.py", line 83, in rendered_content
+    content = template.render(context, self._request)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\template\base.py", line 171, in render
+    return self._render(context)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\template\base.py", line 163, in _render
+    return self.nodelist.render(context)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\template\base.py", line 937, in render
+    bit = node.render_annotated(context)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\template\base.py", line 904, in render_annotated
+    return self.render(context)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\template\loader_tags.py", line 150, in render
+    return compiled_parent._render(context)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\template\base.py", line 163, in _render
+    return self.nodelist.render(context)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\template\base.py", line 937, in render
+    bit = node.render_annotated(context)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\template\base.py", line 904, in render_annotated
+    return self.render(context)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\template\defaulttags.py", line 443, in render
+    url = reverse(view_name, args=args, kwargs=kwargs, current_app=current_app)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\urls\base.py", line 90, in reverse
+    return iri_to_uri(resolver._reverse_with_prefix(view, prefix, *args, **kwargs))
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\urls\resolvers.py", line 668, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'search' not found. 'search' is not a valid view function or pattern name.
+2019-07-03 18:17:42,135 : ERROR : "GET /superuser/customermanagement/ HTTP/1.1" 500 150243 : C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\core\servers\basehttp.py : log_message : 154
+2019-07-03 18:18:13,177 : ERROR : Internal Server Error: /superuser/customermanagement/ : C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\utils\log.py : log_response : 228
+Traceback (most recent call last):
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\core\handlers\base.py", line 145, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\core\handlers\base.py", line 143, in _get_response
+    response = response.render()
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\template\response.py", line 106, in render
+    self.content = self.rendered_content
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\template\response.py", line 83, in rendered_content
+    content = template.render(context, self._request)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\template\base.py", line 171, in render
+    return self._render(context)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\template\base.py", line 163, in _render
+    return self.nodelist.render(context)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\template\base.py", line 937, in render
+    bit = node.render_annotated(context)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\template\base.py", line 904, in render_annotated
+    return self.render(context)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\template\loader_tags.py", line 150, in render
+    return compiled_parent._render(context)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\template\base.py", line 163, in _render
+    return self.nodelist.render(context)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\template\base.py", line 937, in render
+    bit = node.render_annotated(context)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\template\base.py", line 904, in render_annotated
+    return self.render(context)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\template\defaulttags.py", line 443, in render
+    url = reverse(view_name, args=args, kwargs=kwargs, current_app=current_app)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\urls\base.py", line 90, in reverse
+    return iri_to_uri(resolver._reverse_with_prefix(view, prefix, *args, **kwargs))
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\urls\resolvers.py", line 668, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'search' not found. 'search' is not a valid view function or pattern name.
+2019-07-03 18:18:13,178 : ERROR : "GET /superuser/customermanagement/ HTTP/1.1" 500 150504 : C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\core\servers\basehttp.py : log_message : 154
+2019-07-03 18:19:28,062 : ERROR : Internal Server Error: /superuser/customermanagement/ : C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\utils\log.py : log_response : 228
+Traceback (most recent call last):
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\core\handlers\base.py", line 145, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\core\handlers\base.py", line 143, in _get_response
+    response = response.render()
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\template\response.py", line 106, in render
+    self.content = self.rendered_content
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\template\response.py", line 83, in rendered_content
+    content = template.render(context, self._request)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\template\base.py", line 171, in render
+    return self._render(context)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\template\base.py", line 163, in _render
+    return self.nodelist.render(context)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\template\base.py", line 937, in render
+    bit = node.render_annotated(context)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\template\base.py", line 904, in render_annotated
+    return self.render(context)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\template\loader_tags.py", line 150, in render
+    return compiled_parent._render(context)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\template\base.py", line 163, in _render
+    return self.nodelist.render(context)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\template\base.py", line 937, in render
+    bit = node.render_annotated(context)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\template\base.py", line 904, in render_annotated
+    return self.render(context)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\template\defaulttags.py", line 443, in render
+    url = reverse(view_name, args=args, kwargs=kwargs, current_app=current_app)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\urls\base.py", line 90, in reverse
+    return iri_to_uri(resolver._reverse_with_prefix(view, prefix, *args, **kwargs))
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\urls\resolvers.py", line 668, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'search' not found. 'search' is not a valid view function or pattern name.
+2019-07-03 18:19:28,063 : ERROR : "GET /superuser/customermanagement/ HTTP/1.1" 500 147153 : C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\core\servers\basehttp.py : log_message : 154
+2019-07-03 18:19:47,509 : ERROR : Internal Server Error: /superuser/customermanagement/ : C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\utils\log.py : log_response : 228
+Traceback (most recent call last):
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\core\handlers\base.py", line 145, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\core\handlers\base.py", line 143, in _get_response
+    response = response.render()
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\template\response.py", line 106, in render
+    self.content = self.rendered_content
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\template\response.py", line 83, in rendered_content
+    content = template.render(context, self._request)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\template\base.py", line 171, in render
+    return self._render(context)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\template\base.py", line 163, in _render
+    return self.nodelist.render(context)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\template\base.py", line 937, in render
+    bit = node.render_annotated(context)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\template\base.py", line 904, in render_annotated
+    return self.render(context)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\template\loader_tags.py", line 150, in render
+    return compiled_parent._render(context)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\template\base.py", line 163, in _render
+    return self.nodelist.render(context)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\template\base.py", line 937, in render
+    bit = node.render_annotated(context)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\template\base.py", line 904, in render_annotated
+    return self.render(context)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\template\defaulttags.py", line 443, in render
+    url = reverse(view_name, args=args, kwargs=kwargs, current_app=current_app)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\urls\base.py", line 90, in reverse
+    return iri_to_uri(resolver._reverse_with_prefix(view, prefix, *args, **kwargs))
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\urls\resolvers.py", line 668, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'search' not found. 'search' is not a valid view function or pattern name.
+2019-07-03 18:19:47,510 : ERROR : "GET /superuser/customermanagement/ HTTP/1.1" 500 146892 : C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\core\servers\basehttp.py : log_message : 154
+2019-07-03 18:19:47,882 : ERROR : "POST /superuser/login/ HTTP/1.1" 500 59 : C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\core\servers\basehttp.py : log_message : 154
+2019-07-03 18:20:06,923 : ERROR : Internal Server Error: /superuser/customermanagement/ : C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\utils\log.py : log_response : 228
+Traceback (most recent call last):
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\core\handlers\base.py", line 145, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\core\handlers\base.py", line 143, in _get_response
+    response = response.render()
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\template\response.py", line 106, in render
+    self.content = self.rendered_content
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\template\response.py", line 83, in rendered_content
+    content = template.render(context, self._request)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\template\base.py", line 171, in render
+    return self._render(context)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\template\base.py", line 163, in _render
+    return self.nodelist.render(context)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\template\base.py", line 937, in render
+    bit = node.render_annotated(context)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\template\base.py", line 904, in render_annotated
+    return self.render(context)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\template\loader_tags.py", line 150, in render
+    return compiled_parent._render(context)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\template\base.py", line 163, in _render
+    return self.nodelist.render(context)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\template\base.py", line 937, in render
+    bit = node.render_annotated(context)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\template\base.py", line 904, in render_annotated
+    return self.render(context)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\template\defaulttags.py", line 443, in render
+    url = reverse(view_name, args=args, kwargs=kwargs, current_app=current_app)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\urls\base.py", line 90, in reverse
+    return iri_to_uri(resolver._reverse_with_prefix(view, prefix, *args, **kwargs))
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\urls\resolvers.py", line 668, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'search' not found. 'search' is not a valid view function or pattern name.
+2019-07-03 18:20:06,925 : ERROR : "GET /superuser/customermanagement/ HTTP/1.1" 500 146854 : C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\core\servers\basehttp.py : log_message : 154
+2019-07-03 18:20:12,785 : ERROR : Internal Server Error: /superuser/customermanagement/ : C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\utils\log.py : log_response : 228
+Traceback (most recent call last):
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\core\handlers\base.py", line 145, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\core\handlers\base.py", line 143, in _get_response
+    response = response.render()
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\template\response.py", line 106, in render
+    self.content = self.rendered_content
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\template\response.py", line 83, in rendered_content
+    content = template.render(context, self._request)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\template\base.py", line 171, in render
+    return self._render(context)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\template\base.py", line 163, in _render
+    return self.nodelist.render(context)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\template\base.py", line 937, in render
+    bit = node.render_annotated(context)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\template\base.py", line 904, in render_annotated
+    return self.render(context)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\template\loader_tags.py", line 150, in render
+    return compiled_parent._render(context)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\template\base.py", line 163, in _render
+    return self.nodelist.render(context)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\template\base.py", line 937, in render
+    bit = node.render_annotated(context)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\template\base.py", line 904, in render_annotated
+    return self.render(context)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\template\defaulttags.py", line 443, in render
+    url = reverse(view_name, args=args, kwargs=kwargs, current_app=current_app)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\urls\base.py", line 90, in reverse
+    return iri_to_uri(resolver._reverse_with_prefix(view, prefix, *args, **kwargs))
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\urls\resolvers.py", line 668, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'search' not found. 'search' is not a valid view function or pattern name.
+2019-07-03 18:20:12,786 : ERROR : "GET /superuser/customermanagement/ HTTP/1.1" 500 146570 : C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\core\servers\basehttp.py : log_message : 154
+2019-07-03 18:20:21,530 : ERROR : Internal Server Error: /superuser/customermanagement/ : C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\utils\log.py : log_response : 228
+Traceback (most recent call last):
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\core\handlers\base.py", line 145, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\core\handlers\base.py", line 143, in _get_response
+    response = response.render()
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\template\response.py", line 106, in render
+    self.content = self.rendered_content
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\template\response.py", line 83, in rendered_content
+    content = template.render(context, self._request)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\template\base.py", line 171, in render
+    return self._render(context)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\template\base.py", line 163, in _render
+    return self.nodelist.render(context)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\template\base.py", line 937, in render
+    bit = node.render_annotated(context)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\template\base.py", line 904, in render_annotated
+    return self.render(context)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\template\loader_tags.py", line 150, in render
+    return compiled_parent._render(context)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\template\base.py", line 163, in _render
+    return self.nodelist.render(context)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\template\base.py", line 937, in render
+    bit = node.render_annotated(context)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\template\base.py", line 904, in render_annotated
+    return self.render(context)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\template\defaulttags.py", line 443, in render
+    url = reverse(view_name, args=args, kwargs=kwargs, current_app=current_app)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\urls\base.py", line 90, in reverse
+    return iri_to_uri(resolver._reverse_with_prefix(view, prefix, *args, **kwargs))
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\urls\resolvers.py", line 668, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'search' not found. 'search' is not a valid view function or pattern name.
+2019-07-03 18:20:21,531 : ERROR : "GET /superuser/customermanagement/ HTTP/1.1" 500 146696 : C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\core\servers\basehttp.py : log_message : 154
+2019-07-03 18:20:21,886 : ERROR : Internal Server Error: /superuser/customermanagement/ : C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\utils\log.py : log_response : 228
+Traceback (most recent call last):
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\core\handlers\base.py", line 145, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\core\handlers\base.py", line 143, in _get_response
+    response = response.render()
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\template\response.py", line 106, in render
+    self.content = self.rendered_content
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\template\response.py", line 83, in rendered_content
+    content = template.render(context, self._request)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\template\base.py", line 171, in render
+    return self._render(context)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\template\base.py", line 163, in _render
+    return self.nodelist.render(context)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\template\base.py", line 937, in render
+    bit = node.render_annotated(context)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\template\base.py", line 904, in render_annotated
+    return self.render(context)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\template\loader_tags.py", line 150, in render
+    return compiled_parent._render(context)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\template\base.py", line 163, in _render
+    return self.nodelist.render(context)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\template\base.py", line 937, in render
+    bit = node.render_annotated(context)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\template\base.py", line 904, in render_annotated
+    return self.render(context)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\template\defaulttags.py", line 443, in render
+    url = reverse(view_name, args=args, kwargs=kwargs, current_app=current_app)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\urls\base.py", line 90, in reverse
+    return iri_to_uri(resolver._reverse_with_prefix(view, prefix, *args, **kwargs))
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\urls\resolvers.py", line 668, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'search' not found. 'search' is not a valid view function or pattern name.
+2019-07-03 18:20:21,887 : ERROR : "GET /superuser/customermanagement/ HTTP/1.1" 500 146696 : C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\core\servers\basehttp.py : log_message : 154
+2019-07-03 18:20:59,620 : ERROR : Internal Server Error: /superuser/customermanagement/ : C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\utils\log.py : log_response : 228
+Traceback (most recent call last):
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\core\handlers\base.py", line 145, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\core\handlers\base.py", line 143, in _get_response
+    response = response.render()
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\template\response.py", line 106, in render
+    self.content = self.rendered_content
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\template\response.py", line 83, in rendered_content
+    content = template.render(context, self._request)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\template\base.py", line 171, in render
+    return self._render(context)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\template\base.py", line 163, in _render
+    return self.nodelist.render(context)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\template\base.py", line 937, in render
+    bit = node.render_annotated(context)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\template\base.py", line 904, in render_annotated
+    return self.render(context)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\template\loader_tags.py", line 150, in render
+    return compiled_parent._render(context)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\template\base.py", line 163, in _render
+    return self.nodelist.render(context)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\template\base.py", line 937, in render
+    bit = node.render_annotated(context)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\template\base.py", line 904, in render_annotated
+    return self.render(context)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\template\defaulttags.py", line 443, in render
+    url = reverse(view_name, args=args, kwargs=kwargs, current_app=current_app)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\urls\base.py", line 90, in reverse
+    return iri_to_uri(resolver._reverse_with_prefix(view, prefix, *args, **kwargs))
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\urls\resolvers.py", line 668, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'search' not found. 'search' is not a valid view function or pattern name.
+2019-07-03 18:20:59,621 : ERROR : "GET /superuser/customermanagement/ HTTP/1.1" 500 146696 : C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\core\servers\basehttp.py : log_message : 154
+2019-07-03 18:20:59,969 : ERROR : Internal Server Error: /superuser/customermanagement/ : C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\utils\log.py : log_response : 228
+Traceback (most recent call last):
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\core\handlers\base.py", line 145, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\core\handlers\base.py", line 143, in _get_response
+    response = response.render()
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\template\response.py", line 106, in render
+    self.content = self.rendered_content
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\template\response.py", line 83, in rendered_content
+    content = template.render(context, self._request)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\template\base.py", line 171, in render
+    return self._render(context)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\template\base.py", line 163, in _render
+    return self.nodelist.render(context)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\template\base.py", line 937, in render
+    bit = node.render_annotated(context)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\template\base.py", line 904, in render_annotated
+    return self.render(context)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\template\loader_tags.py", line 150, in render
+    return compiled_parent._render(context)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\template\base.py", line 163, in _render
+    return self.nodelist.render(context)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\template\base.py", line 937, in render
+    bit = node.render_annotated(context)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\template\base.py", line 904, in render_annotated
+    return self.render(context)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\template\defaulttags.py", line 443, in render
+    url = reverse(view_name, args=args, kwargs=kwargs, current_app=current_app)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\urls\base.py", line 90, in reverse
+    return iri_to_uri(resolver._reverse_with_prefix(view, prefix, *args, **kwargs))
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\urls\resolvers.py", line 668, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'search' not found. 'search' is not a valid view function or pattern name.
+2019-07-03 18:20:59,970 : ERROR : "GET /superuser/customermanagement/ HTTP/1.1" 500 146696 : C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\core\servers\basehttp.py : log_message : 154
+2019-07-03 18:21:14,332 : ERROR : Internal Server Error: /superuser/customermanagement/ : C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\utils\log.py : log_response : 228
+Traceback (most recent call last):
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\core\handlers\base.py", line 145, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\core\handlers\base.py", line 143, in _get_response
+    response = response.render()
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\template\response.py", line 106, in render
+    self.content = self.rendered_content
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\template\response.py", line 83, in rendered_content
+    content = template.render(context, self._request)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\template\base.py", line 171, in render
+    return self._render(context)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\template\base.py", line 163, in _render
+    return self.nodelist.render(context)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\template\base.py", line 937, in render
+    bit = node.render_annotated(context)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\template\base.py", line 904, in render_annotated
+    return self.render(context)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\template\loader_tags.py", line 150, in render
+    return compiled_parent._render(context)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\template\base.py", line 163, in _render
+    return self.nodelist.render(context)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\template\base.py", line 937, in render
+    bit = node.render_annotated(context)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\template\base.py", line 904, in render_annotated
+    return self.render(context)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\template\defaulttags.py", line 443, in render
+    url = reverse(view_name, args=args, kwargs=kwargs, current_app=current_app)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\urls\base.py", line 90, in reverse
+    return iri_to_uri(resolver._reverse_with_prefix(view, prefix, *args, **kwargs))
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\urls\resolvers.py", line 668, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'search' not found. 'search' is not a valid view function or pattern name.
+2019-07-03 18:21:14,334 : ERROR : "GET /superuser/customermanagement/ HTTP/1.1" 500 146435 : C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\core\servers\basehttp.py : log_message : 154
+2019-07-03 18:21:18,768 : ERROR : Internal Server Error: /superuser/customermanagement/ : C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\utils\log.py : log_response : 228
+Traceback (most recent call last):
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\core\handlers\base.py", line 145, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\core\handlers\base.py", line 143, in _get_response
+    response = response.render()
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\template\response.py", line 106, in render
+    self.content = self.rendered_content
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\template\response.py", line 83, in rendered_content
+    content = template.render(context, self._request)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\template\base.py", line 171, in render
+    return self._render(context)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\template\base.py", line 163, in _render
+    return self.nodelist.render(context)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\template\base.py", line 937, in render
+    bit = node.render_annotated(context)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\template\base.py", line 904, in render_annotated
+    return self.render(context)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\template\loader_tags.py", line 150, in render
+    return compiled_parent._render(context)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\template\base.py", line 163, in _render
+    return self.nodelist.render(context)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\template\base.py", line 937, in render
+    bit = node.render_annotated(context)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\template\base.py", line 904, in render_annotated
+    return self.render(context)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\template\defaulttags.py", line 443, in render
+    url = reverse(view_name, args=args, kwargs=kwargs, current_app=current_app)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\urls\base.py", line 90, in reverse
+    return iri_to_uri(resolver._reverse_with_prefix(view, prefix, *args, **kwargs))
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\urls\resolvers.py", line 668, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'search' not found. 'search' is not a valid view function or pattern name.
+2019-07-03 18:21:18,769 : ERROR : "GET /superuser/customermanagement/ HTTP/1.1" 500 146435 : C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\core\servers\basehttp.py : log_message : 154
+2019-07-03 18:21:32,379 : ERROR : Internal Server Error: /superuser/customermanagement/ : C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\utils\log.py : log_response : 228
+Traceback (most recent call last):
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\core\handlers\base.py", line 145, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\core\handlers\base.py", line 143, in _get_response
+    response = response.render()
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\template\response.py", line 106, in render
+    self.content = self.rendered_content
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\template\response.py", line 83, in rendered_content
+    content = template.render(context, self._request)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\template\base.py", line 171, in render
+    return self._render(context)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\template\base.py", line 163, in _render
+    return self.nodelist.render(context)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\template\base.py", line 937, in render
+    bit = node.render_annotated(context)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\template\base.py", line 904, in render_annotated
+    return self.render(context)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\template\loader_tags.py", line 150, in render
+    return compiled_parent._render(context)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\template\base.py", line 163, in _render
+    return self.nodelist.render(context)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\template\base.py", line 937, in render
+    bit = node.render_annotated(context)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\template\base.py", line 904, in render_annotated
+    return self.render(context)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\template\defaulttags.py", line 443, in render
+    url = reverse(view_name, args=args, kwargs=kwargs, current_app=current_app)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\urls\base.py", line 90, in reverse
+    return iri_to_uri(resolver._reverse_with_prefix(view, prefix, *args, **kwargs))
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\urls\resolvers.py", line 668, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'search' not found. 'search' is not a valid view function or pattern name.
+2019-07-03 18:21:32,381 : ERROR : "GET /superuser/customermanagement/ HTTP/1.1" 500 146570 : C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\core\servers\basehttp.py : log_message : 154
+2019-07-03 18:22:06,857 : ERROR : Internal Server Error: /superuser/customermanagement/ : C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\utils\log.py : log_response : 228
+Traceback (most recent call last):
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\core\handlers\base.py", line 145, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\core\handlers\base.py", line 143, in _get_response
+    response = response.render()
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\template\response.py", line 106, in render
+    self.content = self.rendered_content
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\template\response.py", line 83, in rendered_content
+    content = template.render(context, self._request)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\template\base.py", line 171, in render
+    return self._render(context)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\template\base.py", line 163, in _render
+    return self.nodelist.render(context)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\template\base.py", line 937, in render
+    bit = node.render_annotated(context)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\template\base.py", line 904, in render_annotated
+    return self.render(context)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\template\loader_tags.py", line 150, in render
+    return compiled_parent._render(context)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\template\base.py", line 163, in _render
+    return self.nodelist.render(context)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\template\base.py", line 937, in render
+    bit = node.render_annotated(context)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\template\base.py", line 904, in render_annotated
+    return self.render(context)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\template\defaulttags.py", line 443, in render
+    url = reverse(view_name, args=args, kwargs=kwargs, current_app=current_app)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\urls\base.py", line 90, in reverse
+    return iri_to_uri(resolver._reverse_with_prefix(view, prefix, *args, **kwargs))
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\urls\resolvers.py", line 668, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'search' not found. 'search' is not a valid view function or pattern name.
+2019-07-03 18:22:06,858 : ERROR : "GET /superuser/customermanagement/ HTTP/1.1" 500 146346 : C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\core\servers\basehttp.py : log_message : 154
+2019-07-03 18:22:07,090 : ERROR : Internal Server Error: /superuser/customermanagement/ : C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\utils\log.py : log_response : 228
+Traceback (most recent call last):
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\core\handlers\base.py", line 145, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\core\handlers\base.py", line 143, in _get_response
+    response = response.render()
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\template\response.py", line 106, in render
+    self.content = self.rendered_content
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\template\response.py", line 83, in rendered_content
+    content = template.render(context, self._request)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\template\base.py", line 171, in render
+    return self._render(context)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\template\base.py", line 163, in _render
+    return self.nodelist.render(context)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\template\base.py", line 937, in render
+    bit = node.render_annotated(context)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\template\base.py", line 904, in render_annotated
+    return self.render(context)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\template\loader_tags.py", line 150, in render
+    return compiled_parent._render(context)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\template\base.py", line 163, in _render
+    return self.nodelist.render(context)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\template\base.py", line 937, in render
+    bit = node.render_annotated(context)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\template\base.py", line 904, in render_annotated
+    return self.render(context)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\template\defaulttags.py", line 443, in render
+    url = reverse(view_name, args=args, kwargs=kwargs, current_app=current_app)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\urls\base.py", line 90, in reverse
+    return iri_to_uri(resolver._reverse_with_prefix(view, prefix, *args, **kwargs))
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\urls\resolvers.py", line 668, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'search' not found. 'search' is not a valid view function or pattern name.
+2019-07-03 18:22:07,091 : ERROR : "GET /superuser/customermanagement/ HTTP/1.1" 500 146346 : C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\core\servers\basehttp.py : log_message : 154
+2019-07-03 18:22:07,255 : ERROR : Internal Server Error: /superuser/customermanagement/ : C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\utils\log.py : log_response : 228
+Traceback (most recent call last):
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\core\handlers\base.py", line 145, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\core\handlers\base.py", line 143, in _get_response
+    response = response.render()
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\template\response.py", line 106, in render
+    self.content = self.rendered_content
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\template\response.py", line 83, in rendered_content
+    content = template.render(context, self._request)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\template\base.py", line 171, in render
+    return self._render(context)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\template\base.py", line 163, in _render
+    return self.nodelist.render(context)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\template\base.py", line 937, in render
+    bit = node.render_annotated(context)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\template\base.py", line 904, in render_annotated
+    return self.render(context)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\template\loader_tags.py", line 150, in render
+    return compiled_parent._render(context)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\template\base.py", line 163, in _render
+    return self.nodelist.render(context)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\template\base.py", line 937, in render
+    bit = node.render_annotated(context)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\template\base.py", line 904, in render_annotated
+    return self.render(context)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\template\defaulttags.py", line 443, in render
+    url = reverse(view_name, args=args, kwargs=kwargs, current_app=current_app)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\urls\base.py", line 90, in reverse
+    return iri_to_uri(resolver._reverse_with_prefix(view, prefix, *args, **kwargs))
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\urls\resolvers.py", line 668, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'search' not found. 'search' is not a valid view function or pattern name.
+2019-07-03 18:22:07,256 : ERROR : "GET /superuser/customermanagement/ HTTP/1.1" 500 146346 : C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\core\servers\basehttp.py : log_message : 154
+2019-07-03 18:22:07,944 : ERROR : Internal Server Error: /superuser/customermanagement/ : C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\utils\log.py : log_response : 228
+Traceback (most recent call last):
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\core\handlers\base.py", line 145, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\core\handlers\base.py", line 143, in _get_response
+    response = response.render()
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\template\response.py", line 106, in render
+    self.content = self.rendered_content
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\template\response.py", line 83, in rendered_content
+    content = template.render(context, self._request)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\template\base.py", line 171, in render
+    return self._render(context)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\template\base.py", line 163, in _render
+    return self.nodelist.render(context)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\template\base.py", line 937, in render
+    bit = node.render_annotated(context)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\template\base.py", line 904, in render_annotated
+    return self.render(context)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\template\loader_tags.py", line 150, in render
+    return compiled_parent._render(context)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\template\base.py", line 163, in _render
+    return self.nodelist.render(context)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\template\base.py", line 937, in render
+    bit = node.render_annotated(context)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\template\base.py", line 904, in render_annotated
+    return self.render(context)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\template\defaulttags.py", line 443, in render
+    url = reverse(view_name, args=args, kwargs=kwargs, current_app=current_app)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\urls\base.py", line 90, in reverse
+    return iri_to_uri(resolver._reverse_with_prefix(view, prefix, *args, **kwargs))
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\urls\resolvers.py", line 668, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'search' not found. 'search' is not a valid view function or pattern name.
+2019-07-03 18:22:07,945 : ERROR : "GET /superuser/customermanagement/ HTTP/1.1" 500 146346 : C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\core\servers\basehttp.py : log_message : 154
+2019-07-03 18:22:08,271 : ERROR : Internal Server Error: /superuser/customermanagement/ : C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\utils\log.py : log_response : 228
+Traceback (most recent call last):
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\core\handlers\base.py", line 145, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\core\handlers\base.py", line 143, in _get_response
+    response = response.render()
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\template\response.py", line 106, in render
+    self.content = self.rendered_content
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\template\response.py", line 83, in rendered_content
+    content = template.render(context, self._request)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\template\base.py", line 171, in render
+    return self._render(context)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\template\base.py", line 163, in _render
+    return self.nodelist.render(context)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\template\base.py", line 937, in render
+    bit = node.render_annotated(context)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\template\base.py", line 904, in render_annotated
+    return self.render(context)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\template\loader_tags.py", line 150, in render
+    return compiled_parent._render(context)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\template\base.py", line 163, in _render
+    return self.nodelist.render(context)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\template\base.py", line 937, in render
+    bit = node.render_annotated(context)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\template\base.py", line 904, in render_annotated
+    return self.render(context)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\template\defaulttags.py", line 443, in render
+    url = reverse(view_name, args=args, kwargs=kwargs, current_app=current_app)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\urls\base.py", line 90, in reverse
+    return iri_to_uri(resolver._reverse_with_prefix(view, prefix, *args, **kwargs))
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\urls\resolvers.py", line 668, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'search' not found. 'search' is not a valid view function or pattern name.
+2019-07-03 18:22:08,272 : ERROR : "GET /superuser/customermanagement/ HTTP/1.1" 500 146346 : C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\core\servers\basehttp.py : log_message : 154
+2019-07-03 18:22:08,409 : ERROR : Internal Server Error: /superuser/customermanagement/ : C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\utils\log.py : log_response : 228
+Traceback (most recent call last):
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\core\handlers\base.py", line 145, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\core\handlers\base.py", line 143, in _get_response
+    response = response.render()
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\template\response.py", line 106, in render
+    self.content = self.rendered_content
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\template\response.py", line 83, in rendered_content
+    content = template.render(context, self._request)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\template\base.py", line 171, in render
+    return self._render(context)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\template\base.py", line 163, in _render
+    return self.nodelist.render(context)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\template\base.py", line 937, in render
+    bit = node.render_annotated(context)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\template\base.py", line 904, in render_annotated
+    return self.render(context)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\template\loader_tags.py", line 150, in render
+    return compiled_parent._render(context)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\template\base.py", line 163, in _render
+    return self.nodelist.render(context)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\template\base.py", line 937, in render
+    bit = node.render_annotated(context)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\template\base.py", line 904, in render_annotated
+    return self.render(context)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\template\defaulttags.py", line 443, in render
+    url = reverse(view_name, args=args, kwargs=kwargs, current_app=current_app)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\urls\base.py", line 90, in reverse
+    return iri_to_uri(resolver._reverse_with_prefix(view, prefix, *args, **kwargs))
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\urls\resolvers.py", line 668, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'search' not found. 'search' is not a valid view function or pattern name.
+2019-07-03 18:22:08,410 : ERROR : "GET /superuser/customermanagement/ HTTP/1.1" 500 146346 : C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\core\servers\basehttp.py : log_message : 154
+2019-07-03 18:22:08,600 : ERROR : Internal Server Error: /superuser/customermanagement/ : C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\utils\log.py : log_response : 228
+Traceback (most recent call last):
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\core\handlers\base.py", line 145, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\core\handlers\base.py", line 143, in _get_response
+    response = response.render()
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\template\response.py", line 106, in render
+    self.content = self.rendered_content
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\template\response.py", line 83, in rendered_content
+    content = template.render(context, self._request)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\template\base.py", line 171, in render
+    return self._render(context)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\template\base.py", line 163, in _render
+    return self.nodelist.render(context)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\template\base.py", line 937, in render
+    bit = node.render_annotated(context)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\template\base.py", line 904, in render_annotated
+    return self.render(context)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\template\loader_tags.py", line 150, in render
+    return compiled_parent._render(context)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\template\base.py", line 163, in _render
+    return self.nodelist.render(context)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\template\base.py", line 937, in render
+    bit = node.render_annotated(context)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\template\base.py", line 904, in render_annotated
+    return self.render(context)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\template\defaulttags.py", line 443, in render
+    url = reverse(view_name, args=args, kwargs=kwargs, current_app=current_app)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\urls\base.py", line 90, in reverse
+    return iri_to_uri(resolver._reverse_with_prefix(view, prefix, *args, **kwargs))
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\urls\resolvers.py", line 668, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'search' not found. 'search' is not a valid view function or pattern name.
+2019-07-03 18:22:08,601 : ERROR : "GET /superuser/customermanagement/ HTTP/1.1" 500 146346 : C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\core\servers\basehttp.py : log_message : 154
+2019-07-03 18:22:08,633 : ERROR : "GET /favicon.ico HTTP/1.1" 500 59 : C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\core\servers\basehttp.py : log_message : 154
+2019-07-03 18:22:08,883 : ERROR : Internal Server Error: /superuser/customermanagement/ : C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\utils\log.py : log_response : 228
+Traceback (most recent call last):
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\core\handlers\base.py", line 145, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\core\handlers\base.py", line 143, in _get_response
+    response = response.render()
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\template\response.py", line 106, in render
+    self.content = self.rendered_content
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\template\response.py", line 83, in rendered_content
+    content = template.render(context, self._request)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\template\base.py", line 171, in render
+    return self._render(context)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\template\base.py", line 163, in _render
+    return self.nodelist.render(context)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\template\base.py", line 937, in render
+    bit = node.render_annotated(context)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\template\base.py", line 904, in render_annotated
+    return self.render(context)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\template\loader_tags.py", line 150, in render
+    return compiled_parent._render(context)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\template\base.py", line 163, in _render
+    return self.nodelist.render(context)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\template\base.py", line 937, in render
+    bit = node.render_annotated(context)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\template\base.py", line 904, in render_annotated
+    return self.render(context)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\template\defaulttags.py", line 443, in render
+    url = reverse(view_name, args=args, kwargs=kwargs, current_app=current_app)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\urls\base.py", line 90, in reverse
+    return iri_to_uri(resolver._reverse_with_prefix(view, prefix, *args, **kwargs))
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\urls\resolvers.py", line 668, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'search' not found. 'search' is not a valid view function or pattern name.
+2019-07-03 18:22:08,884 : ERROR : "GET /superuser/customermanagement/ HTTP/1.1" 500 146346 : C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\core\servers\basehttp.py : log_message : 154
+2019-07-03 18:22:08,893 : ERROR : "GET /superuser/customermanagement/ HTTP/1.1" 500 59 : C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\core\servers\basehttp.py : log_message : 154
+2019-07-03 18:22:09,110 : ERROR : Internal Server Error: /superuser/customermanagement/ : C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\utils\log.py : log_response : 228
+Traceback (most recent call last):
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\core\handlers\base.py", line 145, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\core\handlers\base.py", line 143, in _get_response
+    response = response.render()
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\template\response.py", line 106, in render
+    self.content = self.rendered_content
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\template\response.py", line 83, in rendered_content
+    content = template.render(context, self._request)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\template\base.py", line 171, in render
+    return self._render(context)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\template\base.py", line 163, in _render
+    return self.nodelist.render(context)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\template\base.py", line 937, in render
+    bit = node.render_annotated(context)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\template\base.py", line 904, in render_annotated
+    return self.render(context)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\template\loader_tags.py", line 150, in render
+    return compiled_parent._render(context)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\template\base.py", line 163, in _render
+    return self.nodelist.render(context)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\template\base.py", line 937, in render
+    bit = node.render_annotated(context)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\template\base.py", line 904, in render_annotated
+    return self.render(context)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\template\defaulttags.py", line 443, in render
+    url = reverse(view_name, args=args, kwargs=kwargs, current_app=current_app)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\urls\base.py", line 90, in reverse
+    return iri_to_uri(resolver._reverse_with_prefix(view, prefix, *args, **kwargs))
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\urls\resolvers.py", line 668, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'search' not found. 'search' is not a valid view function or pattern name.
+2019-07-03 18:22:09,114 : ERROR : "GET /superuser/customermanagement/ HTTP/1.1" 500 146346 : C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\core\servers\basehttp.py : log_message : 154
+2019-07-03 18:22:09,288 : ERROR : Internal Server Error: /superuser/customermanagement/ : C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\utils\log.py : log_response : 228
+Traceback (most recent call last):
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\core\handlers\base.py", line 145, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\core\handlers\base.py", line 143, in _get_response
+    response = response.render()
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\template\response.py", line 106, in render
+    self.content = self.rendered_content
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\template\response.py", line 83, in rendered_content
+    content = template.render(context, self._request)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\template\base.py", line 171, in render
+    return self._render(context)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\template\base.py", line 163, in _render
+    return self.nodelist.render(context)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\template\base.py", line 937, in render
+    bit = node.render_annotated(context)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\template\base.py", line 904, in render_annotated
+    return self.render(context)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\template\loader_tags.py", line 150, in render
+    return compiled_parent._render(context)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\template\base.py", line 163, in _render
+    return self.nodelist.render(context)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\template\base.py", line 937, in render
+    bit = node.render_annotated(context)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\template\base.py", line 904, in render_annotated
+    return self.render(context)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\template\defaulttags.py", line 443, in render
+    url = reverse(view_name, args=args, kwargs=kwargs, current_app=current_app)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\urls\base.py", line 90, in reverse
+    return iri_to_uri(resolver._reverse_with_prefix(view, prefix, *args, **kwargs))
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\urls\resolvers.py", line 668, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'search' not found. 'search' is not a valid view function or pattern name.
+2019-07-03 18:22:09,289 : ERROR : "GET /superuser/customermanagement/ HTTP/1.1" 500 146346 : C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\core\servers\basehttp.py : log_message : 154
+2019-07-03 18:22:09,328 : ERROR : "GET /favicon.ico HTTP/1.1" 500 59 : C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\core\servers\basehttp.py : log_message : 154
+2019-07-03 18:22:09,459 : ERROR : Internal Server Error: /superuser/customermanagement/ : C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\utils\log.py : log_response : 228
+Traceback (most recent call last):
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\core\handlers\base.py", line 145, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\core\handlers\base.py", line 143, in _get_response
+    response = response.render()
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\template\response.py", line 106, in render
+    self.content = self.rendered_content
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\template\response.py", line 83, in rendered_content
+    content = template.render(context, self._request)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\template\base.py", line 171, in render
+    return self._render(context)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\template\base.py", line 163, in _render
+    return self.nodelist.render(context)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\template\base.py", line 937, in render
+    bit = node.render_annotated(context)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\template\base.py", line 904, in render_annotated
+    return self.render(context)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\template\loader_tags.py", line 150, in render
+    return compiled_parent._render(context)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\template\base.py", line 163, in _render
+    return self.nodelist.render(context)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\template\base.py", line 937, in render
+    bit = node.render_annotated(context)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\template\base.py", line 904, in render_annotated
+    return self.render(context)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\template\defaulttags.py", line 443, in render
+    url = reverse(view_name, args=args, kwargs=kwargs, current_app=current_app)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\urls\base.py", line 90, in reverse
+    return iri_to_uri(resolver._reverse_with_prefix(view, prefix, *args, **kwargs))
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\urls\resolvers.py", line 668, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'search' not found. 'search' is not a valid view function or pattern name.
+2019-07-03 18:22:09,460 : ERROR : "GET /superuser/customermanagement/ HTTP/1.1" 500 146346 : C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\core\servers\basehttp.py : log_message : 154
+2019-07-03 18:22:09,536 : ERROR : "GET /favicon.ico HTTP/1.1" 500 59 : C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\core\servers\basehttp.py : log_message : 154
+2019-07-03 18:22:17,692 : ERROR : Internal Server Error: /superuser/customermanagement/ : C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\utils\log.py : log_response : 228
+Traceback (most recent call last):
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\core\handlers\base.py", line 145, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\core\handlers\base.py", line 143, in _get_response
+    response = response.render()
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\template\response.py", line 106, in render
+    self.content = self.rendered_content
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\template\response.py", line 83, in rendered_content
+    content = template.render(context, self._request)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\template\base.py", line 171, in render
+    return self._render(context)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\template\base.py", line 163, in _render
+    return self.nodelist.render(context)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\template\base.py", line 937, in render
+    bit = node.render_annotated(context)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\template\base.py", line 904, in render_annotated
+    return self.render(context)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\template\loader_tags.py", line 150, in render
+    return compiled_parent._render(context)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\template\base.py", line 163, in _render
+    return self.nodelist.render(context)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\template\base.py", line 937, in render
+    bit = node.render_annotated(context)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\template\base.py", line 904, in render_annotated
+    return self.render(context)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\template\defaulttags.py", line 443, in render
+    url = reverse(view_name, args=args, kwargs=kwargs, current_app=current_app)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\urls\base.py", line 90, in reverse
+    return iri_to_uri(resolver._reverse_with_prefix(view, prefix, *args, **kwargs))
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\urls\resolvers.py", line 668, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'search' not found. 'search' is not a valid view function or pattern name.
+2019-07-03 18:22:17,694 : ERROR : "GET /superuser/customermanagement/ HTTP/1.1" 500 146220 : C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\core\servers\basehttp.py : log_message : 154
+2019-07-03 18:22:24,050 : ERROR : Internal Server Error: /superuser/customermanagement/ : C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\utils\log.py : log_response : 228
+Traceback (most recent call last):
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\core\handlers\base.py", line 145, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\core\handlers\base.py", line 143, in _get_response
+    response = response.render()
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\template\response.py", line 106, in render
+    self.content = self.rendered_content
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\template\response.py", line 83, in rendered_content
+    content = template.render(context, self._request)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\template\base.py", line 171, in render
+    return self._render(context)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\template\base.py", line 163, in _render
+    return self.nodelist.render(context)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\template\base.py", line 937, in render
+    bit = node.render_annotated(context)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\template\base.py", line 904, in render_annotated
+    return self.render(context)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\template\loader_tags.py", line 150, in render
+    return compiled_parent._render(context)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\template\base.py", line 163, in _render
+    return self.nodelist.render(context)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\template\base.py", line 937, in render
+    bit = node.render_annotated(context)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\template\base.py", line 904, in render_annotated
+    return self.render(context)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\template\defaulttags.py", line 443, in render
+    url = reverse(view_name, args=args, kwargs=kwargs, current_app=current_app)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\urls\base.py", line 90, in reverse
+    return iri_to_uri(resolver._reverse_with_prefix(view, prefix, *args, **kwargs))
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\urls\resolvers.py", line 668, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'search' not found. 'search' is not a valid view function or pattern name.
+2019-07-03 18:22:24,051 : ERROR : "GET /superuser/customermanagement/ HTTP/1.1" 500 146220 : C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\core\servers\basehttp.py : log_message : 154
+2019-07-03 18:27:59,569 : ERROR : "GET /static/images/logo.jpg HTTP/1.1" 500 59 : C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\core\servers\basehttp.py : log_message : 154
+2019-07-03 18:28:25,500 : ERROR : Internal Server Error: /superuser/customermanagement/ : C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\utils\log.py : log_response : 228
+Traceback (most recent call last):
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\core\handlers\base.py", line 145, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\core\handlers\base.py", line 143, in _get_response
+    response = response.render()
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\template\response.py", line 106, in render
+    self.content = self.rendered_content
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\template\response.py", line 83, in rendered_content
+    content = template.render(context, self._request)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\template\base.py", line 171, in render
+    return self._render(context)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\template\base.py", line 163, in _render
+    return self.nodelist.render(context)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\template\base.py", line 937, in render
+    bit = node.render_annotated(context)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\template\base.py", line 904, in render_annotated
+    return self.render(context)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\template\loader_tags.py", line 150, in render
+    return compiled_parent._render(context)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\template\base.py", line 163, in _render
+    return self.nodelist.render(context)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\template\base.py", line 937, in render
+    bit = node.render_annotated(context)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\template\base.py", line 904, in render_annotated
+    return self.render(context)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\template\defaulttags.py", line 443, in render
+    url = reverse(view_name, args=args, kwargs=kwargs, current_app=current_app)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\urls\base.py", line 90, in reverse
+    return iri_to_uri(resolver._reverse_with_prefix(view, prefix, *args, **kwargs))
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\urls\resolvers.py", line 668, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'search' not found. 'search' is not a valid view function or pattern name.
+2019-07-03 18:28:25,501 : ERROR : "GET /superuser/customermanagement/ HTTP/1.1" 500 150346 : C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\core\servers\basehttp.py : log_message : 154
+2019-07-03 18:29:39,838 : ERROR : Internal Server Error: /superuser/customermanagement/ : C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\utils\log.py : log_response : 228
+Traceback (most recent call last):
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\core\handlers\base.py", line 145, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\core\handlers\base.py", line 143, in _get_response
+    response = response.render()
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\template\response.py", line 106, in render
+    self.content = self.rendered_content
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\template\response.py", line 83, in rendered_content
+    content = template.render(context, self._request)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\template\base.py", line 171, in render
+    return self._render(context)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\template\base.py", line 163, in _render
+    return self.nodelist.render(context)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\template\base.py", line 937, in render
+    bit = node.render_annotated(context)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\template\base.py", line 904, in render_annotated
+    return self.render(context)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\template\loader_tags.py", line 150, in render
+    return compiled_parent._render(context)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\template\base.py", line 163, in _render
+    return self.nodelist.render(context)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\template\base.py", line 937, in render
+    bit = node.render_annotated(context)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\template\base.py", line 904, in render_annotated
+    return self.render(context)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\template\defaulttags.py", line 443, in render
+    url = reverse(view_name, args=args, kwargs=kwargs, current_app=current_app)
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\urls\base.py", line 90, in reverse
+    return iri_to_uri(resolver._reverse_with_prefix(view, prefix, *args, **kwargs))
+  File "C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\urls\resolvers.py", line 668, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'admindashboard' not found. 'admindashboard' is not a valid view function or pattern name.
+2019-07-03 18:29:39,840 : ERROR : "GET /superuser/customermanagement/ HTTP/1.1" 500 146945 : C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\core\servers\basehttp.py : log_message : 154
+2019-07-03 18:31:39,593 : ERROR : "GET /static/js/dashboard/adminlte.min.js HTTP/1.1" 500 59 : C:\Users\Pappu Group\AppData\Local\Programs\Python\Python37\lib\site-packages\django\core\servers\basehttp.py : log_message : 154
+2019-07-21 21:06:44,731 : ERROR : Your Username Has Been Wrong!  : D:\Django\Django\superuser\packages\login.py : post : 108
+2019-07-21 21:06:48,099 : ERROR : Your Username Has Been Wrong!  : D:\Django\Django\superuser\packages\login.py : post : 108
+2019-07-21 21:06:48,102 : ERROR : Your Username Has Been Wrong!  : D:\Django\Django\superuser\packages\login.py : post : 108
+2019-07-21 21:08:29,250 : ERROR : You are Password Is Wrong  : D:\Django\Django\superuser\packages\login.py : post : 108
+2019-07-21 21:08:29,251 : ERROR : You are Password Is Wrong  : D:\Django\Django\superuser\packages\login.py : post : 108
+2019-07-21 21:57:28,462 : ERROR : "POST /superuser/login/ HTTP/1.1" 500 59 : C:\Users\elcot\AppData\Local\Programs\Python\Python37-32\lib\site-packages\django\core\servers\basehttp.py : log_message : 154

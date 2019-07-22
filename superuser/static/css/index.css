@@ -1,0 +1,89 @@
+.nav{
+    color:blue;
+}
+
+body {
+    background:white;
+  }
+  
+  .card-signin {
+    border: 1%;
+    border-radius: .7rem;
+    box-shadow: 0 0.5rem 1rem 0 rgba(44, 120, 207, 0.548);
+   
+  }
+  
+  .card-signin .card-title {
+    margin-bottom: 2rem;
+    font-weight: 300;
+    font-size: 1.5rem;
+    font-style: Bold;
+    color: darkslateblue;
+  }
+
+
+  .card-signin .card-body {
+    padding: 4rem;
+    color: darkslateblue;    
+  }
+
+  
+  .btn {
+    font-size: 75%;
+    border-radius: .3rem;
+    letter-spacing: .1rem;
+    font-weight: bold;
+    padding: .5rem;
+    transition: all 0.2s;
+    width: 5rem;
+    display: inline-block;
+    margin-top: 0%;
+    margin-left:5%;    
+  }
+  
+  .mx-auto{
+    margin-top: 4rem;
+  }
+
+  .images{
+    padding-top:2px;
+    padding-bottom:2px;
+    padding-left:2px;
+    padding-right:2px;
+  }
+
+#bottom_nav{
+  padding-left: 360px;
+  color: darkslateblue;
+  border: 1%;
+  box-shadow: 0 0.7rem 10rem 0 rgba(44, 120, 207, 0.548);}
+#top-nav{
+  border: 1%;
+  box-shadow: 0 0.3rem 1rem 0 rgba(44, 120, 207, 0.548);
+}
+
+.right-panel{
+  height:87vh;
+  width: 100%;
+  display: flex;
+  color: rgb(0, 0, 0);
+}
+
+.v-scroll{
+  overflow-y: scroll;
+} 
+
+.wrapper{
+  min-height:696px ;
+  max-width: 100%;
+  padding-bottom:5px;
+  overflow-x: hidden;
+  overflow-y: hidden;
+}
+
+.content-wrapper{
+  min-height:auto ;
+  min-width: 1119px;
+  padding: 5px;
+  overflow:auto;
+}

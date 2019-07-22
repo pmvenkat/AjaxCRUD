@@ -1,0 +1,130 @@
+#heading{
+    background-color: #2196F3;
+}
+
+#vendor_head{
+    font-size : 25px;
+    color: white;
+}
+
+.after_modal_appended
+{  
+  position:relative;
+}
+
+.modal, .modal-backdrop {
+    position: absolute !important;
+}
+
+/* .modal-dialog
+{
+  height: 55%;
+
+} */
+.modal-content {
+  height: 80%;
+  cursor: normal;
+}
+
+.modal-body {
+  max-height: calc(100% - 120px);
+  height: 80%;
+}
+
+/* .modal-footer {
+  height: 2px;
+} */
+
+.modal-footer button:hover {
+  color:white;
+}
+.modal-header button:hover {
+  color:red;
+}
+
+
+table tbody tr.selected {
+  background-color: #2983e9 !important;
+  color:#fff;
+  vertical-align: middle;
+  padding: 1.5em;
+}
+table thead tr{
+  background-color: white;
+  color:black;
+}
+table tbody tr{
+  background-color: white;
+  color:black;
+}
+tr:nth-child{
+  background-color:white;
+}
+tbody tr:hover {
+  background-color: rgba(0, 140, 255, 0.534) !important;
+  color:#fff;
+  vertical-align: middle;
+  padding: 1.5em;
+}
+
+.right-panel{
+  height:91vh;
+  width: 100%;
+  display: flex;
+  color: rgb(0, 0, 0);
+}
+
+
+.v-scroll{
+  overflow-y: visible;
+} 
+
+.wrapper{
+  min-height:696px ;
+  max-width: 100%;
+  padding-bottom:5px;
+  overflow-x: hidden;
+  overflow-y: hidden;
+}
+
+.content-wrapper{
+  min-height:auto ;
+  min-width: 1135px;
+  padding: 5px;
+  overflow:none;
+/* Taxing Fixed header */
+}
+.scroll-table-taxing  { 
+  overflow-y: auto; 
+  height: 100px; 
+ 
+}
+.scroll-table-taxing th { position: sticky; top: -1px; }
+
+/* Just common table stuff. Really. */
+table  { border-collapse: collapse; width: 100%; }
+th, td { padding: 8px 16px; }
+th     { background:#eee; }
+
+
+/* customer table fixed header */
+.scroll-table  { 
+  overflow-y: auto; 
+  height: 100px; 
+ 
+}
+.scroll-table th { position: sticky; top: -1px; }
+
+/* Just common table stuff. Really. */
+table  { border-collapse: collapse; width: 100%; }
+th, td { padding: 8px 16px; }
+th     { background:#eee; }
+.move{
+  left:12px;
+}
+.mov{
+  margin-left:40px;
+}
+#customer_add, #customer_edit, #customer_delete, #refresh, #submit, #cancel, #tax_delete, #tax_edit, #tax_add, #taxing_save{
+  box-shadow:5px 5px 5px 0px rgba(0,0,0,0.3);
+}
